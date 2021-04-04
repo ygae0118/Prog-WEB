@@ -1,0 +1,13 @@
+.tulisan_warna{
+			color: blue;
+				}
+u {
+    text-decoration: none;
+    border-bottom: 1px solid black;
+  }
+.container{ 
+				text-align: center;
+}
+.karakterhuruf{
+				letter-spacing: 5px;
+				}
